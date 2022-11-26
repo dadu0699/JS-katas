@@ -1,3 +1,5 @@
+// @ts-check
+
 /**
  * The number of minutes it takes to prepare a single layer.
  */
